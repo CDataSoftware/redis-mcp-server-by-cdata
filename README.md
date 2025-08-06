@@ -1,7 +1,7 @@
 # redis-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Redis
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Redis (beta)](https://www.cdata.com/download/download.aspx?sku=EIZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Redis (beta)](https://www.cdata.com/download/download.aspx?sku=EIZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Redis supported by the [CData JDBC Driver for Redis](https://www.cdata.com/drivers/redis/jdbc).
 
